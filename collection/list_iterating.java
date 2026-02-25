@@ -4,7 +4,7 @@ public class list_iterating {
 
     public static void main(String args[])
     {
-        // Creating an empty Arraylist of string type
+       
         List<String> al = new ArrayList<>();
 
         // Adding elements to above object of ArrayList
