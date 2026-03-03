@@ -39,4 +39,9 @@ class Solution {
         Solution sc = new Solution();
         sc.printDiamond(n);
     }
+
+    public char[] oppositeFaceDice(int n) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'oppositeFaceDice'");
+    }
 }
